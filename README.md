@@ -1,2 +1,2 @@
-# coldbox-module-tineye
-ColdBox module for using the TinEye photo search API.
+# TinEye ColdBox Module
+ColdBox module for using the TinEye photo search API. www.tineye.com
