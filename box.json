@@ -1,0 +1,54 @@
+{
+    "author":"Sean Daniels",
+    "bugs":"",
+    "changelog":"",
+    "contributors":[],
+    "dependencies":{},
+    "description":"",
+    "devDependencies":{},
+    "documentation":"",
+    "homepage":"",
+    "ignore":[],
+    "installPaths":{},
+    "instructions":"",
+    "keywords":"tineye, stock photo, photo search",
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "location":"ForgeboxStorage",
+    "name":"TinEye ColdBox Module",
+    "private":false,
+    "projectURL":"",
+    "repository":{
+        "type":"",
+        "URL":""
+    },
+    "scripts":{},
+    "shortDescription":"A module for using TinEye photo search API",
+    "slug":"tineye",
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "excludes":"",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    },
+    "type":"modules",
+    "version":"1.0.0+0001"
+}
