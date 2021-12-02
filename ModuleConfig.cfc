@@ -3,7 +3,7 @@ component {
 	this.title 				= "TinEye API Module";
 	this.author 			= "Sean Daniels";
 	this.description 		= "Module for interacting with TinEye APIs";
-	this.version			= "1.0.0+00001";
+	this.version			= "1.1.1+0001";
 	// If true, looks for views in the parent first, if not found, then in the module. Else vice-versa
 	this.viewParentLookup 	= true;
 	// If true, looks for layouts in the parent first, if not found, then in module. Else vice-versa
@@ -20,8 +20,7 @@ component {
 	function configure(){
 		// module settings - stored in modules.name.settings
 		settings = {
-			 "publicKey":"" 
-			,"privateKey":""
+			 "privateKey":""
 		};
 	}
 }
